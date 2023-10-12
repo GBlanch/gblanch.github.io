@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello! My name is Spencer, and I absolutely love to combine data science capabilities with any type of industry. I love to create mini projects that explains or demonstrates how to use said application in your everyday life.
+Hello! This is a test.123.
 
 I am currently working at Booz Allen Hamilton as a Machine Learning Engineer with a focus on <b>Natural Language Processing </b> and <b>model deployment.</b>
 
