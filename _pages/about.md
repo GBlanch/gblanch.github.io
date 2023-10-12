@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello! This is a test.123.
 
-I am currently working at Booz Allen Hamilton as a Machine Learning Engineer with a focus on <b>Natural Language Processing </b> and <b>model deployment.</b>
+Another test <b>Natural Language Processing </b> and <b>model deployment.</b>
 
 I also do pro-bono strategic consulting work with [Compass.](https://compassprobono.org/) I am currently assisting on a growth strategic proposal to a nonprofit firm.
 
