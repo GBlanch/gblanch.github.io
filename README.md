@@ -1,6 +1,6 @@
 # Gerry's [website](https://gblanch.github.io/projects/)
 
-Used from the al-folio template mentioned below.
+Utilized from the al-folio template mentioned below.
 
 ---
 # al-folio
