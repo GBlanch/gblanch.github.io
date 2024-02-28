@@ -214,6 +214,30 @@
 
     </div>
 
+    <script>
+      
+const TitleDesc = ['Hands-on Data Scientist',
+                   'Curious driven',
+                   'Applied Data Engineer',
+                   'Lifelong learner',
+                   'Machine Learning enthusiast'];
+
+      const TitleElement = document.querySelector('.desc b');
+    
+      
+      let currentIndex = 0;
+    function rotateJobTitle() {
+    TitleElement.style.opacity = 0; 
+    setTimeout(() => {
+      TitleElement.textContent = TitleDesc[currentIndex];
+      TitleElement.style.opacity = 1; 
+      currentIndex = (currentIndex + 1) % TitleDesc.length;
+    }, 500); 
+    }
+    
+      setInterval(rotateJobTitle, 2500);
+    </script>
+
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
